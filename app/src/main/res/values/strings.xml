@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vidma</string>
+    
+    <string-array name="qualities">
+        <item>Best Available</item>
+        <item>1080p</item>
+        <item>720p</item>
+        <item>480p</item>
+    </string-array>
+    
+    <string-array name="formats">
+        <item>MP4 (Video)</item>
+        <item>MP3 (Audio Only)</item>
+    </string-array>
+</resources>
